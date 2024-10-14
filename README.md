@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there, I'm Ramakrishna 👋
 
-<!--
-**leadoutrageous5/leadoutrageous5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I am a passionate Machine Learning Intern at Feynn Labs, where I work on various projects involving data analysis, model development, and AI solutions. I enjoy exploring new technologies and finding innovative ways to solve problems.
 
-Here are some ideas to get you started:
+## 🌱 I’m currently learning
+- Advanced machine learning algorithms
+- Deep learning techniques
+- Data visualization tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 My Skills
+- Machine Learning: Python, Scikit-learn, TensorFlow, Keras
+- Data Analysis: Pandas, NumPy
+- Data Visualization: Matplotlib, Seaborn
+- Tools: Git, Jupyter, Visual Studio Code
+
+
+
+
